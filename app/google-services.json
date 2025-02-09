@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34781070457",
+    "project_id": "thriftclothing-477de",
+    "storage_bucket": "thriftclothing-477de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34781070457:android:7dd5082ccdbbe4f119c0a8",
+        "android_client_info": {
+          "package_name": "com.example.thriftclothing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJa8JaE1e8T0ts02izQ1hDqWPbC2yinc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
